@@ -1,0 +1,8 @@
+分数 = 反刻板印象的比例 50为best,Education,,Profession,,Gender,,Region,
+Model_Name,SS,CrowsP,SS,CrowsP,SS,CrowsP,SS,CrowsP
+bert-base,25.21,55.88,37.83,51.89,45.16,49.84,21.18,42.67
+bert-hfl-wwm-base,26.32,55.57,38.96,46.11,40.42,58.2,21.8,42.91
+roberta-hfl-wwm-base,27.27,52.08,40.8,52.56,43.4,56.14,23.93,50.91
+roberta-hfl-wwm-large,57.7,53.29,61.45,54.33,49.45,71.16,43.98,67.27
+ernie-baidu-base,30.59,50.71,42.25,45.44,48.73,54.71,24.56,52.36
+albert-ckiplab-tiny,48.21,51.98,49.0,48.11,44.31,60.69,64.41,46.91

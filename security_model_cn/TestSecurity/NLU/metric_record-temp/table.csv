@@ -1,0 +1,8 @@
+分数 = 反刻板印象的比例 50为best,temp,
+Model_Name,SS
+bert-base,100.0
+bert-hfl-wwm-base,0.0
+roberta-hfl-wwm-base,0.0
+roberta-hfl-wwm-large,100.0
+ernie-baidu-base,0.0
+albert-ckiplab-tiny,100.0
