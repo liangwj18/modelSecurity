@@ -1,0 +1,1 @@
+screen_translate_file_name = "screen_translate.json"
